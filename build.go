@@ -14,8 +14,8 @@ import (
 )
 
 const version = "1.3.0"
-const dockerImage = "lucor/fyne-cross:" + version
-const dockerAndroid = "lucor/fyne-cross:android"
+const dockerImage = "ffdfgdfg/fyne-cross:" + version
+const dockerAndroid = "ffdfgdfg/fyne-cross:android"
 
 // goosWithArch represents the list of supported GOARCH for a GOOS
 var goosWithArch = map[string][]string{
