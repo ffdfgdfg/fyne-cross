@@ -28,13 +28,13 @@ Supported targets are:
 
 ## Installation
 
-        go get github.com/lucor/fyne-cross
+        go get github.com/ffdfgdfg/fyne-cross
 
 ### Development release
 
 To install a preview of the next version or help in testing:
 
-        go get github.com/lucor/fyne-cross@develop
+        go get github.com/ffdfgdfg/fyne-cross@develop
 
 ## Usage
 
