@@ -1,4 +1,4 @@
-FROM ffdfgdfg/golang-cross:1.13.5
+FROM ffdfgdfg/golang-cross:1.13.7
 
 RUN apt-get update -qq \
     && apt-get install -y -q --no-install-recommends \
